@@ -1,0 +1,17 @@
+﻿  test.c
+D:\code\C-code\test2 数据类型\test2 数据类型\test.c(1,1): warning C4828: 文件包含在偏移 0x186 处开始的字符，该字符在当前源字符集中无效(代码页 936)。
+D:\code\C-code\test2 数据类型\test2 数据类型\test.c(5,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+D:\code\C-code\test2 数据类型\test2 数据类型\test.c(5,9): message : 请考虑在格式字符串中使用“%zd”
+D:\code\C-code\test2 数据类型\test2 数据类型\test.c(6,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+D:\code\C-code\test2 数据类型\test2 数据类型\test.c(6,9): message : 请考虑在格式字符串中使用“%zd”
+D:\code\C-code\test2 数据类型\test2 数据类型\test.c(7,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+D:\code\C-code\test2 数据类型\test2 数据类型\test.c(7,9): message : 请考虑在格式字符串中使用“%zd”
+D:\code\C-code\test2 数据类型\test2 数据类型\test.c(8,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+D:\code\C-code\test2 数据类型\test2 数据类型\test.c(8,9): message : 请考虑在格式字符串中使用“%zd”
+D:\code\C-code\test2 数据类型\test2 数据类型\test.c(9,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+D:\code\C-code\test2 数据类型\test2 数据类型\test.c(9,9): message : 请考虑在格式字符串中使用“%zd”
+D:\code\C-code\test2 数据类型\test2 数据类型\test.c(10,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+D:\code\C-code\test2 数据类型\test2 数据类型\test.c(10,9): message : 请考虑在格式字符串中使用“%zd”
+D:\code\C-code\test2 数据类型\test2 数据类型\test.c(11,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+D:\code\C-code\test2 数据类型\test2 数据类型\test.c(11,9): message : 请考虑在格式字符串中使用“%zd”
+  test2 数据类型.vcxproj -> D:\code\C-code\test2 数据类型\x64\Debug\test2 数据类型.exe
